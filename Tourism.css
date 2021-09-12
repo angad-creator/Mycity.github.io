@@ -1,0 +1,295 @@
+body {
+    overflow-x: hidden; 
+  }
+  .top-level{
+    position: relative;
+   left:10px
+   }
+#thehrforthetop{
+       top: -20px;
+       position: relative;
+   }
+#thetelanganaphoto{
+       top: -20px;
+   }
+#thglobaledgephoto{
+           position: relative;
+           left:1000px;   
+           top: -30px;
+    }
+.logos{
+    position: relative;  
+    height: 100px;
+    top: 30px;
+   }
+#hyderabad{
+       position: relative;
+       left:120px;
+       top: -120px;
+       font-size:30px;
+       font-family: 'Hina Mincho', serif;
+   }
+.linkboard{
+       position: relative;
+       height:2px;
+       top:-140px;
+       background:rgb(0, 0, 0);
+   }
+.linkboardlinks{
+       position: relative;
+       font-size: 40px;
+       top: -20px;
+       font-weight:700;
+       text-decoration: none;
+       text-align: center;
+       display: inline-block;   
+   }
+#homelink{
+       color: black;
+       position: relative;
+       left: 40px;
+       top: -90px;
+       font-size:30px;
+   
+   }
+   
+#Aboutlink{
+       color: black;
+       position: relative;
+       left: 80px;
+       top: -90px;
+       font-size:30px;
+   }
+#Aboutlink{
+   position: relative;
+}
+#Aboutlink:link,#Aboutlink:visited{
+   color:black
+}
+#Aboutlink:hover{
+   display: inline-block;
+   color:white;
+   background-color:rgb(0, 0, 0);
+   padding: 0px 25px;
+   text-align: center;
+}
+       
+   #thelinkactualofgov{
+       position: relative;
+       left:1000px;
+       top: -40px;
+   }
+   #thelinkactualofgov:link,#thelinkactualofgov:visited{
+       color:black
+   }
+#thelinkactualofgov:hover{
+       display: inline-block;
+       color:rgb(255, 255, 255);
+       background-color:rgb(0, 0, 0);
+       padding: 0px 20px;
+       text-align: center;
+   }
+#Thetourismlink{
+       left: 120px;
+       position:relative;
+       top:-90px;
+       font-size:30px;
+       text-decoration: none;
+       color:black;
+   }
+#Thetourismlink:hover{
+    display: inline-block;
+    color:white;
+    background-color:rgb(0, 0, 0);
+    padding: 0px 25px;
+    text-align: center; 
+}
+.linkboardimage{
+    top: -110px;
+    position: relative;
+    width: 410px;
+    height:150px;
+margin:0px;
+padding:0px;
+}
+
+#thecharminardiv{
+    position: relative;
+border:1px solid ;
+width: 400px;
+left:30PX;
+HEIGHT:400PX;
+top:-70px;   
+}
+#thecharminar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    TOP: 10px;
+    height: 240px;
+}
+.THetourismclass{
+    height:200px;
+    position: relative;
+}
+#thecharminarh3{
+    background-color:rgba(156, 144, 144,20%);
+    width:290px;
+    text-align:center;
+    position: relative;
+    left: 50px;
+    height:25px;
+    font-size:23px
+}
+.locatiopng{
+    height: 30px;
+}
+#thecharminarhlocation{
+    top:50px;
+    background-color: black;
+    position: relative;
+}
+#locationlinkforcharminar{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+#charminarline{
+    font-family: 'Hina Mincho', serif;
+    top: -50px;
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+}
+#charmiarmoreline{
+    top: -60px;
+    position: relative;
+    left: 250px;
+    color:black;
+    text-decoration: none;
+    font-size:20px
+}
+#charmiarmoreline:visited{
+    color:black;
+    text-decoration: none;
+}
+#h1ofnamethinganimaltourist{
+    position: relative;
+    top: -100px;
+    left: 30px;
+}
+#TheRamojiFIlmCitydiv{
+    position: relative;
+    border:1px solid ;
+    width: 400px;
+    left:450PX;
+    HEIGHT:400PX;
+    top:-470px;   
+}
+#TheRamojiFilmCity{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    TOP: 10px;
+    height: 240px;
+    position: relative;
+}
+#Ramoji_Film_City_H3{
+    background-color:rgba(156, 144, 144,20%);
+    width:290px;
+    text-align:center;
+    position: relative;
+    left: 50px;
+    height:25px;
+    font-size:23px
+}
+#TheRamojiFilmCityLocation{
+    top:50px;
+    background-color: black;
+    position: relative;
+}
+#Thelocationlinkforramojifilmcity{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+#theramojiline{
+    font-family: 'Hina Mincho', serif;
+    top: -50px;
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+}
+#theramojicitylinklearnmore{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    top: -60px;
+    position: relative;
+    left: 250px;
+text-decoration: none;
+}
+#theramojicitylinklearnmore:visited{
+    color:black;
+    text-decoration: none;
+}
+#salarjungmuseum{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    TOP: 10px;
+    height: 240px;
+    position: relative;
+}
+#salarjungmuseumdiv{
+    position: relative;
+    border:1px solid ;
+    width: 400px;
+    left:860PX;
+    HEIGHT:400PX;
+    top:-870px;   
+}
+#telinkforthesalrjungmuseum{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+    left: 40px;
+}
+#theh3forsalrjungmuseam{
+background-color:rgba(156, 144, 144,20%);
+    width:290px;
+    text-align:center;
+    position: relative;
+    left: 50px;
+    height:25px;
+    font-size:23px
+}
+#thesalrjungmuseamlocationpng{
+    top:50px;
+    background-color: black;
+    position: relative;
+    left:-75px;
+}
+#thesalarjungmuseamline{
+    font-family: 'Hina Mincho', serif;
+    top: -50px;
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+}
+#Thesalarjungmuseamlearnmorelink{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    top: -40px;
+    position: relative;
+    left: 250px;
+    text-decoration: none;
+}
+#Thesalarjungmuseamlearnmorelink:VISITED{
+    COLOR: rgb(0, 0, 0)
+}
